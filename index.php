@@ -18,7 +18,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
        
         <title>Restaurant Site</title>
-        <link href="/assets/styles.css" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
 
 </head>
     <body id="final-example">
@@ -26,7 +26,7 @@
     <div class="wrapper">
         <div id="banner">
             <a href="/" title=Return to Home>
-                <img src="img/banner.jpg" alt="Restaurant Banner">
+                <img src="img/banner.jpg" alt="Restaurant Banner" class="banner_image">
             </a>
         </div><!--banner-->
 
