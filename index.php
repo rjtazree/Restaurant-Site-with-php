@@ -68,10 +68,10 @@
 
 
             </div>
-
-        </div>
+            <small>&copy;Tazree</small>
+        </div><!--content-->
         
-    </div>
+    </div><!--wrapper-->
 
     </body>
 
