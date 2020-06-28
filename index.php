@@ -26,9 +26,12 @@
     <div class="wrapper">
         <div id="banner">
             <a href="/" title=Return to Home>
+            <div style="position:absolute;opacity:0.5; margin-left:275px; width: 820px; height: 545px; background:black;"> </div>
+            <!--black box-->
                 <img src="img/banner.jpg" alt="Restaurant Banner" class="banner_image">
             </a>
-        </div><!--banner-->
+            <div class="centered">Centered</div>
+             </div><!--banner-->
 
         <div id="nav">
 
