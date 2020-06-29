@@ -1,4 +1,6 @@
-<div id="footer" class="cf">
+
+        <div id="content">
+        <div id="footer" class="cf">
                 <div class="column three">
                     <strong>Phone : </strong>
                     112345678
@@ -30,8 +32,3 @@
         </div><!--content-->
         
     </div><!--wrapper-->
-
-    </body>
-
-
-</html>
